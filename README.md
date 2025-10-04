@@ -2,6 +2,7 @@
 
 ## 📘 Project Overview  
 This project analyzes the **business performance of a healthcare company** by comparing **actuals vs. yearly targets** for both **Revenue** and **Covered Lives**.  
+
 The goal was to create an **interactive Excel dashboard** that helps management quickly visualize monthly performance, variances, and overall progress toward annual goals.  
 
 ---
