@@ -74,12 +74,5 @@ They needed a quick dashboard that reveals both **achievements and gaps** across
 
 ---
 
-## 👩‍💻 Author  
-**Karry Devi Pravallika**  
-Doctor of Pharmacy (Pharm.D) | Healthcare Data Analyst  
-[GitHub: DeviPravallikaKarry](https://github.com/DeviPravallikaKarry)  
-
----
-
 ## 🏷️ Tags  
 #ExcelDashboard #HealthcareAnalytics #DataVisualization #BusinessInsights #DataAnalysis   
